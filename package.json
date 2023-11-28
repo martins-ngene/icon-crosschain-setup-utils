@@ -2,7 +2,7 @@
   "name": "icon-crosschain-setup-utils",
   "version": "1.0.0",
   "description": "A tooling that enhances the developer experience for developers using xCall",
-  "main": "index.js",
+  "main": "package/index.js",
   "directories": {
     "test": "test"
   },
