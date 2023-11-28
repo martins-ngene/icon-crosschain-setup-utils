@@ -1,0 +1,27 @@
+{
+  "name": "icon-crosschain-setup-utils",
+  "version": "1.0.0",
+  "description": "A tooling that enhances the developer experience for developers using xCall",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martinsngene/icon-crosschain-setup-utils.git"
+  },
+  "keywords": [
+    "ICX",
+    "ICON Foundation",
+    "xcall"
+  ],
+  "author": "Martins Ngene",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Martinsngene/icon-crosschain-setup-utils/issues"
+  },
+  "homepage": "https://github.com/Martinsngene/icon-crosschain-setup-utils#readme"
+}
