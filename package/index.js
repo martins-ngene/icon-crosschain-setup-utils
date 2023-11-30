@@ -120,7 +120,7 @@ function getXcallContract(xcallAbiPath) {
  * @returns {object} - the params for the Icon contract
  * @throws {Error} - if there is an error getting the params
  */
-function getIconDappDeploymentsParams(label, dappContract) {
+function getIconDappDeploymentsParams(label, dappContract, XCALL_PRIMARY) {
   const result = {
     _sourceXCallContract: XCALL_PRIMARY,
     _destinationBtpAddress: getBtpAddress(label, dappContract),
@@ -178,7 +178,7 @@ function filterEventICON(eventlogs, sig, address) {
  * @returns {object} - the filtered event logs
  * @throws {Error} - if there is an error filtering the event logs
  */
-async function filterCallMessageSentEvent(eventlogs) {
+async function filterCallMessageSentEvent(eventlogs, XCALL_PRIMARY) {
   return filterEventICON(
     eventlogs,
     "CallMessageSent(Address,str,int,int)",
