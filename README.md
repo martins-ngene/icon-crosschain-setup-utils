@@ -397,5 +397,5 @@ console.log(fileExists(path));
 ```javascript
 const { parseEventResponseFromTracker } = IconSetupUtils;
 
-console.log(parseEventResponseFromTracker(path));
+console.log(parseEventResponseFromTracker(response));
 ```
