@@ -7,23 +7,23 @@ This tool helps developers to simplify redundant tasks when implementing the xca
 - [Installation](#installation)
 - [API Specification - Introduction](#api-specification---introduction)
 - [IconSetupUtils](#iconsetuputils)
-- [IconSetupUtils.getIconContractByteCode](#iconSetupUtils.getIconContractByteCode)
+- [IconSetupUtils.getIconContractByteCode](#iconsetuputilsgeticoncontractbytecode)
 - [IconSetupUtils.isDeployed](#iconsetuputilsisdeployed)
-- [IconSetupUtils.saveDeployments][saveDeployments]
-- [IconSetupUtils.getDeployments][getDeployments]
-- [IconSetupUtils.getEvmContract][getEvmContract]
-- [IconSetupUtils.getDappContract][getDappContract]
-- [IconSetupUtils.getXcallContract][getXcallContract]
-- [IconSetupUtils.getIconDappDeploymentsParams][getIconDappDeploymentsParams]
-- [IconSetupUtils.getBtpAddress][getBtpAddress]
-- [IconSetupUtils.filterEventICON][filterEventICON]
-- [IconSetupUtils.filterCallMessageSentEvent][filterCallMessageSentEvent]
-- [IconSetupUtils.sleep][sleep]
-- [IconSetupUtils.strToHex][strToHex]
-- [IconSetupUtils.strToHexPadded][strToHexPadded]
-- [IconSetupUtils.isValidEVMAddress][isValidEVMAddress]
-- [IconSetupUtils.fileExists][fileExists]
-- [IconSetupUtils.parseEventResponseFromTracker][parseEventResponseFromTracker]
+- [IconSetupUtils.saveDeployments](#iconsetuputilssavedeployments)
+- [IconSetupUtils.getDeployments](#iconsetuputilsgetdeployments)
+- [IconSetupUtils.getEvmContract](#iconsetuputilsgetevmcontract)
+- [IconSetupUtils.getDappContract](#iconsetuputilsgetdappcontract)
+- [IconSetupUtils.getXcallContract](#iconsetuputilsgetxcallcontract)
+- [IconSetupUtils.getIconDappDeploymentsParams](#iconsetuputilsgeticondappdeploymentsparams)
+- [IconSetupUtils.getBtpAddress](#iconsetuputilsgetbtpaddress)
+- [IconSetupUtils.filterEventICON](#iconsetuputilsfiltereventicon)
+- [IconSetupUtils.filterCallMessageSentEvent](#iconsetuputilsfiltercallmessagesentevent)
+- [IconSetupUtils.sleep](#iconsetuputilssleep)
+- [IconSetupUtils.strToHex](#iconsetuputilsstrtohex)
+- [IconSetupUtils.strToHexPadded](#iconsetuputilsstrtohexpadded)
+- [IconSetupUtils.isValidEVMAddress](#iconsetuputilsisvalidevmaddress)
+- [IconSetupUtils.fileExists](#iconsetuputilsfileexists)
+- [IconSetupUtils.parseEventResponseFromTracker](#iconsetuputilsparseeventresponsefromtracker)
 
 ## Installation
 
