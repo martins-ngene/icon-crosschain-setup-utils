@@ -232,7 +232,7 @@ function isValidEVMAddress(address) {
   return address && address.length === 42 && address.startsWith("0x");
 }
 
-const setupUtils = {
+const IconSetupUtils = {
   getIconContractByteCode,
   isDeployed,
   saveDeployments,
@@ -252,4 +252,4 @@ const setupUtils = {
   parseEventResponseFromTracker,
 };
 
-module.exports = setupUtils;
+module.exports = IconSetupUtils;
