@@ -8,7 +8,7 @@ This tool helps developers to simplify redundant tasks when implementing the xca
 - [API Specification - Introduction](#api-specification---introduction)
 - [IconSetupUtils](#iconsetuputils)
 - [IconSetupUtils.getIconContractByteCode](#iconSetupUtils.getIconContractByteCode)
-- [IconSetupUtils.isDeployed][isDeployed]
+- [IconSetupUtils.isDeployed](#iconsetuputilsisdeployed)
 - [IconSetupUtils.saveDeployments][saveDeployments]
 - [IconSetupUtils.getDeployments][getDeployments]
 - [IconSetupUtils.getEvmContract][getEvmContract]
